@@ -40,3 +40,13 @@ background-position: center;
     width: 7%;
     /*background-color: rgb(99, 173, 9);*/
 }
+#text-div{
+    height: 300px ;
+    position: absolute;
+    width: 400px;
+    background-color: red;
+    left: 5%;
+    top: 50%;
+ 
+
+}
