@@ -47,6 +47,6 @@ background-position: center;
     background-color: red;
     left: 5%;
     top: 50%;
- 
+ transform: translate(0,-50%);
 
 }
