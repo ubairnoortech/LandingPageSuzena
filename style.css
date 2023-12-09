@@ -7,4 +7,28 @@
 html,body{
     height: 100%;
     width: 100%;
+   
+
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background: hsl(346deg 17% 70%);
+
+}
+#part1{
+    height: 100%;
+    width: 26%;
+    background-color: red;
+}
+#part2{
+height: 100%;
+width: 64%;
+background-color: blue;
+
+}
+#part3{
+    height: 100%;
+    width: 10%;
+    background-color: rgb(99, 173, 9);
 }
