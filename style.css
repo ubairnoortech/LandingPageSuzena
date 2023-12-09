@@ -42,18 +42,20 @@ background-position: center;
 }
 #text-div{
     height: 300px ;
-
+    position: absolute;
     width: 400px;
-    
-    left: 5%;
+
+    left: 7%;
     top: 50%;
+    border: 1px solid white;
  transform: translate(0,-50%);
 }
 #text-div>h1{
     font-size: 85px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     font-weight: 900;
     line-height: 78px;
     text-transform: uppercase;
-    color:white
+    color:white;
+    letter-spacing: 8px;
 }
