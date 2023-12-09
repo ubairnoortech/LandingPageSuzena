@@ -42,9 +42,9 @@ background-position: center;
 }
 #text-div{
     height: 300px ;
-    position: absolute;
+
     width: 400px;
-    background-color: red;
+    
     left: 5%;
     top: 50%;
  transform: translate(0,-50%);
