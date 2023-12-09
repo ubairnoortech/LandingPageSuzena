@@ -48,5 +48,12 @@ background-position: center;
     left: 5%;
     top: 50%;
  transform: translate(0,-50%);
-
+}
+#text-div>h1{
+    font-size: 85px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    line-height: 78px;
+    text-transform: uppercase;
+    color:white
 }
