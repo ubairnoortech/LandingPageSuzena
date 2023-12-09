@@ -14,7 +14,8 @@ html,body{
     height: 100%;
     width: 100%;
     background: hsl(346deg 17% 70%);
-
+/* to make the part 1 - 3 in one line we add display flex */
+display: flex;
 }
 #part1{
     height: 100%;
