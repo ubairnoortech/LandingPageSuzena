@@ -97,12 +97,24 @@ background-position: center;
 
 #nav{
     position: absolute;
-    width: 200px;
-    background: red;
+    width: 400px;
+    /* background: red; */
     display: flex;
     justify-content: space-between;
     align-items: center;
+    left: 6%;
+    top: 5%;
 
 
+}
+
+#nav img{
+    height: 50px;
+
+}
+#nav h5{
+    font-size: 30px;
+    font-family: monospace;
+    color: #fff;
 
 }
